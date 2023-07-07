@@ -260,12 +260,21 @@ extension EntryViewController: UITableViewDataSource, UITableViewDelegate {
 
 ## 📚 참고 링크
 [🍎Apple Docs: JSONDecoder](https://developer.apple.com/documentation/foundation/jsondecoder)
+
 [🍎Apple Docs: Using JSON with Custom Types](https://developer.apple.com/documentation/foundation/archives_and_serialization/using_json_with_custom_types)
+
 [🍎Apple Docs: Encoding and Decoding Custom Types](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
+
 [🍎Apple Docs: UINavigationController](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
+
 [🍎Apple Docs: UITableViewDelegate](https://developer.apple.com/documentation/uikit/uitableviewdelegate)
+
 [🍎Apple Docs: UITableViewDataSource](https://developer.apple.com/documentation/uikit/uitableviewdatasource)
+
 [🍎Apple Docs: supportedInterfaceOrientations](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621435-supportedinterfaceorientations)
+
 [🍎Apple Docs: UIInterfaceOrientationMask](https://developer.apple.com/documentation/uikit/uiinterfaceorientationmask)
+
 [🍎Apple Docs: WorkingwithScrollViews](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithScrollViews.html)
+
 [🍎Apple Docs: Customize the Navigation Bar Appearance](https://developer.apple.com/documentation/uikit/uinavigationcontroller/customizing_your_app_s_navigation_bar#3950605)
